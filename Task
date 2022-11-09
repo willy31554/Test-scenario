@@ -1,0 +1,7 @@
+How to implement a solution with a following scenario:
+1. Customer wants to see their monthly balance and cumulative balance
+2. There is an API that is developed by another team. The API provides bank transactions which include amount transferred and date
+3. Things to consider
+* In this task there is no need to develop the API developed by another team
+* How to design your application so that it is testable?
+* If the application must be deployed to a server in remote location, how would you do it?
